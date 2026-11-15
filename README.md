@@ -1,2 +1,2 @@
-﻿# University Appointment Booking System
-This project helps students book university appointments.
+# University-Appointment-Booking-System
+A web-based system for managing appointments between university students and academic staff
